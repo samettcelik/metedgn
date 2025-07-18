@@ -1,0 +1,6 @@
+@DGN_BACK_HostAddress = http://localhost:5289
+
+GET {{DGN_BACK_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

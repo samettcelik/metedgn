@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DGN_BACK.props" />
+</Project>
